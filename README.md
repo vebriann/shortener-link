@@ -4,6 +4,8 @@
 ```
 sudo update
 sudo upgrade 
+sudo install git
+git clone https://github.com/vebriann/shortener-link
 pip install python
 pip isntall requests
 ```
@@ -11,6 +13,8 @@ pip isntall requests
 ```
 pkg update 
 pkg upgrade 
+pkg install git
+git clone https://github.com/vebriann/shortener-link
 pip install python
 pip install requests
 ```
