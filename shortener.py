@@ -4,7 +4,7 @@ import os,sys,time,json,requests
 # Author Vebrian Developer
 # don't forget follow my github @vebriann
 
-os.system("cls")
+os.system("clear")
 url = "https://short-link-api.vercel.app/?query="
 
 mylink = input(" masukan link anda: ")
